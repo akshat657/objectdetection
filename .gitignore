@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+tensorflow_env/
+*. egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# TensorFlow
+*.h5
+*.pb
+checkpoints/
+
+# Data files (large files GitHub pe nahi chahiye)
+data/
+*. csv
+*.zip
+*.tar. gz
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights (large files)
+*.weights
+*. ckpt
